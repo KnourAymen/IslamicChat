@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216837807182",
+    "project_id": "islamicchat-3362a",
+    "storage_bucket": "islamicchat-3362a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216837807182:android:16f8a4a5e2ab7110f9f71f",
+        "android_client_info": {
+          "package_name": "com.example.islamicchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216837807182-dcqg361tm2996mfo0mj6em6j41aduahp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDRJNeT_ewnPYavxMK02OsqczJTN8Vtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216837807182-dcqg361tm2996mfo0mj6em6j41aduahp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
